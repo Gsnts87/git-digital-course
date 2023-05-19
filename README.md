@@ -5,4 +5,4 @@
 * comando git pull (puxa dados)
 * comando git fetch
 * comando git branch (cria nova branch)
-* comando git chekcout (vai para a branch)
+* comando git checkout (vai para a branch)
